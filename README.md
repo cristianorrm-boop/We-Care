@@ -1,8 +1,8 @@
 # We Care 🐾
 
-**Meu primeiro projeto responsivo** - Um site dedicado ao cuidado com animais que marca meu início no desenvolvimento web mobile-first!
+**Meu primeiro projeto web** - Um site dedicado ao cuidado com animais que marca o início da minha jornada no desenvolvimento front-end!
 
-Este projeto foi desenvolvido durante o curso do **[DevClub](https://www.devclub.com.br)** e representa um marco importante na minha jornada de aprendizado, onde aprendi a criar layouts responsivos que se adaptam perfeitamente a diferentes dispositivos.
+Este projeto foi desenvolvido durante o curso do **[DevClub](https://www.devclub.com.br)** e representa meu primeiro contato prático com HTML e CSS, aplicando os conceitos básicos para criar uma página web funcional e visualmente organizada.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -17,16 +17,15 @@ Este projeto foi desenvolvido durante o curso do **[DevClub](https://www.devclub
 
 ## 📖 Sobre o Projeto
 
-O **We Care** é um site responsivo focado no cuidado e bem-estar animal. Desenvolvido com a abordagem mobile-first, este projeto foi meu primeiro contato com design responsivo, aprendendo a criar experiências consistentes em dispositivos móveis, tablets e desktops.
+O **We Care** é um site estático desenvolvido para praticar os fundamentos do desenvolvimento web. Focado no cuidado e bem-estar animal, este projeto me permitiu aplicar pela primeira vez conceitos de estruturação HTML e estilização CSS, criando uma página web completa do zero.
 
 ## ✨ Funcionalidades Principais
 
+- ✅ Estrutura HTML semântica e organizada
+- ✅ Estilização CSS com foco em design clean
 - ✅ Navegação intuitiva e acessível
-- ✅ Design clean e focado no conteúdo
-- ✅ Compatível com diferentes tamanhos de tela
-- ✅ Interface amigável e visualmente atraente
-
-
+- ✅ Layout visualmente equilibrado e atrativo
+- ✅ Boas práticas de organização de código
 
 
 
